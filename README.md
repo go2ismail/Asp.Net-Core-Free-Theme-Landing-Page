@@ -13,7 +13,7 @@ I'm using **Visual Studio Community 2017** for the development tools on Windows 
 
 
 # Supported by CodeRush.Co
-[CodeRush.CO] source code collections (https://coderush.co)
+[CodeRush.CO] source code collections (https://coderush.co). 50% Off All Products, Use Discount Code **GITHUB50**
 
 
 
